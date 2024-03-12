@@ -5,6 +5,7 @@
 -- Author: Olatunji Oluwadare
 
 -- Specify database - mysql
+USE 'hbtn_0c_0';
 
 -- Get full table description
 SELECT COLUMN_NAME, COLUMN_TYPE, IS_NULLABLE, COLUMN_KEY, COLUMN_DEFAULT, EXTRA
