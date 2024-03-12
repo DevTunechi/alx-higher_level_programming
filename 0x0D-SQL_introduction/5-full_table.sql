@@ -5,7 +5,7 @@
 -- Author: Olatunji Oluwadare
 
 -- Specify database - mysql
-USE 'mysql'
+USE 'mysql';
 
 -- Get full table description
 
