@@ -4,8 +4,7 @@
 
 -- This script lists all tables in MySQL database
 
--- Specify the database name 
-USE mysql;
+-- Specify the database name - mysql
 
 -- Show all tables in the current database
 SHOW TABLES;
