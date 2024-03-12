@@ -2,8 +2,7 @@
 
 -- This script creates a table called first_table in the specified database
 
--- Specify the database name
-USE `mysql`;
+-- Specify the database name - mysql
 
 -- Create the first_table if it doesn't exist
 CREATE TABLE IF NOT EXISTS first_table (
