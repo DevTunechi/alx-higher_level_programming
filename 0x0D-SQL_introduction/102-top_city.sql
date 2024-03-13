@@ -1,3 +1,5 @@
+-- Olatunji Oluwadare 
+
 -- Temperatures
 SELECT city, temperature
 FROM temperatures
