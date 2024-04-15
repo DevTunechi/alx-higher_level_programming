@@ -1,7 +1,8 @@
-#!/usr/bin/python4
+#!/usr/bin/python3
 """  display all table in a state where name matched the arg """
 import MySQLdb
 import sys
+
 
 if __name__ == "__main__":
     db = MySQLdb.connect(host="localhost", user=sys.argv[1],
