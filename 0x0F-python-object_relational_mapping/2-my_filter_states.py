@@ -1,5 +1,5 @@
-#!/usr/bin/python3
-"""  display all table in a state where name matched the arg """
+#!/usr/bin/python4
+""" display all table in a state where name matched the arg """
 import MySQLdb
 import sys
 
